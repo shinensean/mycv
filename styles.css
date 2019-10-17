@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  text-align: center;
+font-family: 'Mansalva', cursive;
+}
+
+h1{
+  color: #E0FF4F;
+ margin-top: 0;
+ font-size: 60px;
+}
+p{
+  color: #E0FF4F;
+  font-size: 30px;
+  padding-top: 50px;
+}
+.top-container {
+  background-color: #011627;
+}
+.middle-container{
+width: 100%;
+height: 200px;
+background-color: #011627;
+}
+.bottom-container{
+background-color: #011627;
+width: 100%;
+height: 1000px;
+padding-top: 500px;
+}
+.ilus{
+
+  height: 400px;
+  width: 400px;
+
+}
+.happy{
+  height: 400px;
+    width: 400px;
+}
+.skilltext{
+  margin-top: 100px;
+}
+.ilu2{
+  width: 400px;
+  height: 400px;
+  padding-top: 10px;
+}
+.skilltype{
+  margin-top: 300px;
+}
+.bottom2{
+  height: 600px;
+padding-top: 200px;
+background-color: #011627;
+}
+.footer-link{
+  color: #E0FF4F;
+}
